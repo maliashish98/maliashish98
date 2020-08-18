@@ -1,18 +1,18 @@
-### Hi Everyone! Welcome to Aashish's GitHub Profile 👋
+# Hi Everyone! Welcome to Aashish's GitHub Profile 👋
 ## On this page I keep all of the docs and codes realated to various projects 
 
 <!--
-**maliashish98/maliashish98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maliashish98/maliashish98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on NeoLife Project  
+- 🌱 I’m currently learning C Programming Language  
+- 👯 I’m looking to collaborate on Linkedin
+- 💬 Ask me about Everything you want
+- 📫 How to reach me: www.aashishmali.com
+- 😄 Pronouns: Ash
+- ⚡ Fun fact: Under Construction.
+<!-- - 🤔 I’m looking for help with ... -->
+
 
 **Connect with me on these platforms:**
 
