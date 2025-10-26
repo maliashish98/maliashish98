@@ -4,13 +4,11 @@
 <!--
 **maliashish98/maliashish98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on NeoLife Project  
-- 🌱 I’m currently learning C Programming Language  
+- 🔭 Python Developer at Tata Consultancy Services.  
+- 🌱 I’m currently learning DevOps for Python Developers. 
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about Everything you want
-- 📫 How to reach me: www.aashishmali.com
-- 😄 Pronouns: Ash
-- ⚡ Fun fact: Under Construction.
+- 📫 How to reach me: aashish.d.mali@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 
 
